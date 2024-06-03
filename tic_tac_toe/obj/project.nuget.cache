@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rZFent4wls=",
+  "success": true,
+  "projectFilePath": "D:\\tic_tac_toe\\tic_tac_toe\\tic_tac_toe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylec\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\kylec\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\kylec\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
